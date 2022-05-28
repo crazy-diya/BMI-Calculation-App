@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="weightHintValue">0</string>
+    <string name="kg">KG</string>
+    <string name="weightTextValue">Weight</string>
+    <string name="heightTextValue">Height</string>
+    <string name="heightHintValue">0</string>
+    <string name="cm">CM</string>
+</resources>
